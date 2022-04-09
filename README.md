@@ -50,3 +50,6 @@ merge the specified branch’s history into the current one
 git log
 
 show all commits in the current branch’s histor
+
+vidio link :
+https://youtu.be/WMnBek4y2bQ
